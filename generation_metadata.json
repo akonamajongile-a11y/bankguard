@@ -1,0 +1,16 @@
+{
+  "project": "BankGuard",
+  "rows_requested": 1000000,
+  "seed": 42,
+  "datasets": [
+    "customers.csv",
+    "accounts.csv",
+    "transactions.csv",
+    "branches.csv",
+    "merchants.csv",
+    "fraud_labels.csv",
+    "exchange_rates.csv"
+  ],
+  "machine_learning": false,
+  "intentionally_messy": true
+}
