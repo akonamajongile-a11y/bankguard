@@ -1,0 +1,251 @@
+branch_id,branch_name,province,city,branch_type
+1,Mzansi Branch 001,Western Cape,Cape Town,Suburban
+2,Mzansi Branch 002,Mpumalanga,Emalahleni,Rural
+3,Mzansi Branch 003,Limpopo,Polokwane,Urban
+2,Mzansi Branch 004,Eastern Cape,Gqeberha,Urban
+5,Mzansi Branch 005,Eastern Cape,East London,Urban
+6,Mzansi Branch 006,North West,Rustenburg,Suburban
+7,Mzansi Branch 007,Western Cape,GEORGE,Suburban
+8,Mzansi Branch 008,,Mbombela,Urban
+9,Mzansi Branch 009,Gauteng,Johannesburg,Urban
+10,Mzansi Branch 010,Western Cape,George,Suburban
+11,Mzansi Branch 011,Free State,Bethlehem,Urban
+12,Mzansi Branch 012,Northern Cape,Kimberley,Suburban
+13,Mzansi Branch 013,Mpumalanga,Mbombela,Urban
+14,Mzansi Branch 014,Mpumalanga,Secunda,Urban
+15,Mzansi Branch 015,Mpumalanga,Secunda,Rural
+16,Mzansi Branch 016,North West,Mahikeng,Urban
+17,Mzansi Branch 017,Free State,Welkom,URBAN
+18,Mzansi Branch 018,Gauteng,Pretoria,Urban
+19,Mzansi Branch 019,North West,Mahikeng,Urban
+20,Mzansi Branch 020,Free State,Welkom,Urban
+21,Mzansi Branch 021,Free State,Bloemfontein,Urban
+22,Mzansi Branch 022,Eastern Cape,Gqeberha,Urban
+23,Mzansi Branch 023,Gauteng,Johannesburg,Urban
+24,Mzansi Branch 024,Northern Cape,Kuruman,Suburban
+25,MZANSI BRANCH 025,North West,Mahikeng,Suburban
+26,Mzansi Branch 026,Limpopo,Thohoyandou,urban
+27,Mzansi Branch 027,Eastern Cape, East London ,Urban
+28,Mzansi Branch 028,North West,Klerksdorp,Urban
+29,Mzansi Branch 029,Free State,Bloemfontein,Rural
+30,Mzansi Branch 030,Eastern Cape,Gqeberha,Rural
+31,Mzansi Branch 031,Free State,Bloemfontein,Urban
+32,Mzansi  Branch  032,Kwazulu-Natal,Pietermaritzburg,Urban
+33,Mzansi Branch 033,Western Cape,George,Urban
+34,Mzansi Branch 034,Free State,Welkom,Urban
+35,Mzansi Branch 035,North West,Mahikeng,Suburban
+36,Mzansi Branch 036, Western Cape ,Paarl,Urban
+37,mzansi branch 037,North West,Rustenburg,Urban
+38,Mzansi Branch 038,North West,Mahikeng,urban
+39,Mzansi Branch 039,KwaZulu-Natal,Pietermaritzburg,Urban
+40,Mzansi Branch 040,Limpopo,Thohoyandou,Urban
+41,Mzansi Branch 041,Gauteng,Soweto,Suburban
+42,Mzansi Branch 042,Mpumalanga,Mbombela,Urban
+43,Mzansi Branch 043,Mpumalanga,Secunda, Rural 
+44,Mzansi Branch 044,Eastern Cape,Gqeberha,Urban
+45,Mzansi Branch 045,Western Cape,George,Suburban
+46,Mzansi Branch 046,Northern Cape,Upington,Rural
+47,Mzansi Branch 047,Free State,Bethlehem,Rural
+48,Mzansi Branch 048,Northern Cape,Upington,Suburban
+49,Mzansi Branch 049,Mpumalanga,Mbombela,Suburban
+50,Mzansi Branch 050,North West,Rustenburg,suburban
+51,Mzansi Branch 051,Mpumalanga,Emalahleni,Suburban
+52,Mzansi Branch 052,Gauteng,Soweto,Urban
+53,Mzansi Branch 053,Eastern Cape,Gqeberha,Urban
+54,Mzansi Branch 054,Free State,Bethlehem,Urban
+55,Mzansi Branch 055,Free State,Welkom,Rural
+56,Mzansi Branch 056, Western Cape ,Cape Town,Urban
+57,Mzansi Branch 057,Free State,Bloemfontein,Urban
+58,Mzansi Branch 058,Gauteng,Midrand,Suburban
+59,Mzansi Branch 059,Mpumalanga,Mbombela, Urban 
+60,Mzansi Branch 060,Mpumalanga,Mbombela,Urban
+61,Mzansi Branch 061,Northern Cape,Upington,Urban
+62,Mzansi Branch 062,Mpumalanga,Secunda,Urban
+63,Mzansi Branch 063,Eastern Cape,Gqeberha,Urban
+64,Mzansi Branch 064,Northern Cape,Kimberley,Urban
+65,Mzansi Branch 065,Eastern Cape,Gqeberha,Urban
+66,Mzansi Branch 066,KwaZulu-Natal,Pietermaritzburg,Urban
+67,Mzansi Branch 067,Northern Cape,Kuruman,Urban
+68,Mzansi Branch 068,Eastern Cape,Mthatha,Suburban
+69,Mzansi Branch 069,Western Cape,Paarl,Urban
+70,Mzansi Branch 070,,Bethlehem,Rural
+71,Mzansi Branch 071,North West,Rustenburg,Rural
+72,Mzansi Branch 072,Gauteng,Johannesburg,Urban
+73,Mzansi Branch 073,Free State,Welkom,urban
+74,Mzansi Branch 074,Gauteng,Soweto,Urban
+75,Mzansi Branch 075,Mpumalanga,Secunda,Suburban
+76,Mzansi Branch 076,Free State,Bloemfontein,Suburban
+77,Mzansi Branch 077,KwaZulu-Natal,Durban,Suburban
+78,Mzansi Branch 078,KwaZulu-Natal,Durban,Urban
+79,Mzansi Branch 079,Limpopo, Polokwane ,Suburban
+80,Mzansi Branch 080,Mpumalanga,Emalahleni,Urban
+81,Mzansi Branch 081,northern cape,Upington,Suburban
+82,Mzansi Branch 082,Eastern Cape,East London,Urban
+83,Mzansi Branch 083,Gauteng,Pretoria,Suburban
+84,Mzansi Branch 084,North West,Klerksdorp,Rural
+85,Mzansi Branch 085,Limpopo,Thohoyandou,Urban
+86,Mzansi Branch 086,Mpumalanga,Secunda,Suburban
+87,Mzansi Branch 087,Western Cape,Paarl,Urban
+88,Mzansi Branch 088,KwaZulu-Natal,Durban,Suburban
+89,Mzansi Branch 089,Mpumalanga,Mbombela,Urban
+90,Mzansi Branch 090,North West,Klerksdorp,Rural
+91,Mzansi Branch 091,Eastern Cape,East London,Urban
+92,Mzansi Branch 092,North West,Rustenburg,Rural
+93,Mzansi Branch 093,North West,Mahikeng,Suburban
+94,Mzansi Branch 094,Eastern Cape,East London,Suburban
+95,Mzansi Branch 095,Northern Cape,Kuruman,Suburban
+96,Mzansi Branch 096,KwaZulu-Natal,Durban,Suburban
+97,Mzansi Branch 097,KWAZULU-NATAL,Richards Bay,Rural
+98,Mzansi Branch 098,Mpumalanga,Secunda,Urban
+99,Mzansi Branch 099,Limpopo,POLOKWANE,Suburban
+100,Mzansi Branch 100,Gauteng,Johannesburg,Urban
+101,Mzansi Branch 101,North West,Mahikeng,Suburban
+102,Mzansi  Branch  102,Gauteng,Johannesburg,Urban
+103,Mzansi Branch 103,North West,Rustenburg,Suburban
+104,Mzansi Branch 104,Western Cape,Stellenbosch,Suburban
+105,Mzansi Branch 105,North West,Klerksdorp,Urban
+106,Mzansi Branch 106,North West,KLERKSDORP,Urban
+107,Mzansi Branch 107,North West,Rustenburg,Suburban
+108,Mzansi Branch 108,Limpopo,Tzaneen,Suburban
+109,Mzansi Branch 109,Free State,Bloemfontein,Urban
+110,Mzansi Branch 110,Mpumalanga,Secunda,Suburban
+111,Mzansi Branch 111,KwaZulu-Natal,Richards Bay,Rural
+112,Mzansi Branch 112,North West,Klerksdorp,Urban
+113,Mzansi Branch 113,Limpopo,Polokwane,Urban
+114,Mzansi Branch 114,Free State,Bethlehem,Urban
+115,Mzansi Branch 115,Free State,Bloemfontein,Suburban
+116,Mzansi Branch 116,Limpopo,Thohoyandou,Urban
+117,Mzansi Branch 117,Western Cape,Stellenbosch,Suburban
+118,Mzansi Branch 118,Gauteng,Pretoria,Suburban
+119,Mzansi Branch 119,KwaZulu-Natal,Durban,Urban
+120,Mzansi Branch 120,Gauteng,Soweto,Rural
+121,Mzansi Branch 121,Eastern Cape,East London,SUBURBAN
+122,Mzansi Branch 122,Mpumalanga,Emalahleni,Urban
+123,Mzansi Branch 123,Limpopo,Thohoyandou,Urban
+124,Mzansi Branch 124,Free State,Welkom,Urban
+125,Mzansi  Branch  125,North West,Klerksdorp,Urban
+126,Mzansi Branch 126,Limpopo,Polokwane,Urban
+127,Mzansi Branch 127,Western Cape,George,Rural
+128,Mzansi Branch 128,Mpumalanga,Secunda,Urban
+129,Mzansi Branch 129,Limpopo,Thohoyandou,Urban
+130,Mzansi Branch 130,Limpopo,Polokwane,Suburban
+131,Mzansi Branch 131,Limpopo,Polokwane,Suburban
+132,mzansi branch 132,Free State,Bethlehem,rural
+133,Mzansi Branch 133,Western Cape,Paarl,Suburban
+134,Mzansi Branch 134,Limpopo,Polokwane,Urban
+135,Mzansi Branch 135,,Rustenburg,Urban
+136,Mzansi Branch 136,KwaZulu-Natal,Durban,Rural
+137,Mzansi Branch 137,Limpopo,Polokwane,Suburban
+138,Mzansi Branch 138,Western Cape,Paarl,Rural
+139,Mzansi Branch 139,EASTERN CAPE,Mthatha,Urban
+140,Mzansi Branch 140,Eastern Cape,Gqeberha,Rural
+141,Mzansi Branch 141,northern cape,Kuruman,Suburban
+142,Mzansi Branch 142,gauteng,Johannesburg,Urban
+143,Mzansi Branch 143,KwaZulu-Natal,Pietermaritzburg,Suburban
+144,Mzansi Branch 144,Eastern Cape,East London,Suburban
+145,MZANSI BRANCH 145,Northern Cape,Kuruman,Urban
+146,Mzansi Branch 146,North West,Klerksdorp,Urban
+147,Mzansi Branch 147,Western Cape,Cape Town,Suburban
+148,Mzansi Branch 148,KwaZulu-Natal,Durban,Urban
+149,Mzansi Branch 149,North West,Rustenburg,Urban
+137,Mzansi Branch 150,WESTERN CAPE,Stellenbosch,Urban
+151,Mzansi Branch 151,North West,Klerksdorp,Urban
+152,Mzansi Branch 152,KwaZulu-Natal,Richards Bay,Rural
+153,Mzansi Branch 153,Northern Cape,Kimberley,Suburban
+154,Mzansi Branch 154,KwaZulu-Natal,Richards Bay,Urban
+155,Mzansi Branch 155,Eastern Cape,East London,Rural
+156,Mzansi Branch 156,Limpopo,thohoyandou,Rural
+157,Mzansi Branch 157,Gauteng,Pretoria,Urban
+158,Mzansi Branch 158,Limpopo,Polokwane,Suburban
+159,Mzansi Branch 159,Free State,Bethlehem,Urban
+160,Mzansi Branch 160,North West,Rustenburg,Rural
+161,Mzansi Branch 161,Northern Cape,Kimberley,Suburban
+162,Mzansi Branch 162,Limpopo,Polokwane,Suburban
+163,Mzansi Branch 163,Eastern Cape,GQEBERHA,Urban
+164,Mzansi Branch 164,Eastern Cape,Gqeberha,Rural
+165,Mzansi Branch 165,Eastern Cape,Gqeberha,Urban
+166,Mzansi Branch 166,North West,Klerksdorp,Urban
+167,Mzansi Branch 167,KwaZulu-Natal,Richards Bay,Urban
+168,Mzansi Branch 168,Gauteng,Johannesburg,Suburban
+169,Mzansi Branch 169,Eastern Cape,Gqeberha,Urban
+170,Mzansi Branch 170,Western Cape,George,Rural
+171,Mzansi Branch 171,Western Cape,Paarl,Suburban
+172,Mzansi Branch 172,Western Cape,George,Urban
+173,Mzansi Branch 173,Mpumalanga,Secunda,Urban
+174,Mzansi Branch 174,Mpumalanga,Emalahleni,Urban
+175,Mzansi Branch 175,Mpumalanga,Emalahleni,Suburban
+176,Mzansi Branch 176,Free State,Bloemfontein,suburban
+177,Mzansi Branch 177,Mpumalanga,Secunda,Urban
+178,Mzansi Branch 178,gauteng,Soweto,Suburban
+179,Mzansi Branch 179, Northern Cape ,Kimberley,Urban
+180,MZANSI BRANCH 180,Free State,Bethlehem,Suburban
+181,Mzansi Branch 181,Northern Cape,Kimberley,Rural
+182,Mzansi Branch 182,Gauteng, Midrand ,suburban
+183,Mzansi Branch 183,Free State,Bethlehem,Suburban
+184,Mzansi Branch 184,Mpumalanga,Mbombela,Suburban
+185,Mzansi Branch 185,Free State,Welkom,Urban
+186,Mzansi Branch 186,Free State,Bloemfontein,Urban
+187,Mzansi Branch 187,Gauteng,Midrand,Urban
+188,Mzansi Branch 188,Eastern Cape,Mthatha,Urban
+189,Mzansi Branch 189,KwaZulu-Natal,Durban,Suburban
+190,Mzansi Branch 190,KwaZulu-Natal,Pietermaritzburg,Suburban
+191,Mzansi Branch 191,Mpumalanga,Secunda,Rural
+192,Mzansi Branch 192,Limpopo,Polokwane,Urban
+193,Mzansi Branch 193,Limpopo,Polokwane,suburban
+194,Mzansi Branch 194,Eastern Cape,East London,Urban
+195,Mzansi Branch 195,Northern Cape,upington,Urban
+196,Mzansi Branch 196,Western Cape,george,Suburban
+197,Mzansi Branch 197,Eastern Cape,Gqeberha,Rural
+198,Mzansi Branch 198,Gauteng,Soweto,Suburban
+199,Mzansi Branch 199,Eastern Cape,East London,Urban
+200,Mzansi Branch 200,Northern Cape,Kimberley,Suburban
+201,Mzansi Branch 201,Eastern Cape,Mthatha,Urban
+202,Mzansi Branch 202, Northern Cape ,,Rural
+203,Mzansi Branch 203,Free State,Welkom,Suburban
+204,Mzansi Branch 204,Mpumalanga,Mbombela,Urban
+205,Mzansi Branch 205,Free State,Welkom,Urban
+206,Mzansi Branch 206,KwaZulu-Natal,Pietermaritzburg,Urban
+207,Mzansi Branch 207,Mpumalanga,Mbombela,Rural
+208,Mzansi Branch 208,Northern Cape,Upington,Urban
+209,Mzansi Branch 209,KwaZulu-Natal,Richards Bay,Suburban
+210,Mzansi Branch 210,North West,Rustenburg,Suburban
+211,Mzansi Branch 211,KwaZulu-Natal,Richards Bay,Suburban
+212,Mzansi Branch 212,Mpumalanga,Mbombela,Urban
+213,Mzansi Branch 213,North West,Klerksdorp,Rural
+214,Mzansi Branch 214,Free State,Welkom,Urban
+215,Mzansi Branch 215,Mpumalanga,Mbombela,Suburban
+216,Mzansi Branch 216,KwaZulu-Natal,Richards Bay,Suburban
+217,Mzansi Branch 217,Western Cape,Cape Town,Suburban
+218,Mzansi Branch 218,Western Cape,George,Rural
+219,Mzansi Branch 219,Free State,Bloemfontein,Urban
+220,Mzansi Branch 220,Northern Cape,Kuruman,Urban
+221,Mzansi Branch 221, Gauteng ,Midrand,Urban
+222,Mzansi Branch 222,Free State,Bethlehem,Urban
+223,Mzansi Branch 223,Mpumalanga,Emalahleni,Urban
+224,Mzansi Branch 224,Gauteng,Pretoria,Urban
+225,Mzansi Branch 225,Mpumalanga,Emalahleni,Urban
+226,Mzansi Branch 226,KwaZulu-Natal,Richards Bay,Urban
+227,Mzansi Branch 227,North West,Klerksdorp,Urban
+228,Mzansi Branch 228,Limpopo,Polokwane,Suburban
+229,Mzansi Branch 229,Free State,Welkom,Suburban
+230,Mzansi Branch 230,Gauteng,Johannesburg,Urban
+231,Mzansi Branch 231,Free State,Bloemfontein,Urban
+232,Mzansi Branch 232,North West,Klerksdorp,Urban
+233,Mzansi Branch 233,Western Cape,Stellenbosch, Suburban 
+234,Mzansi Branch 234,Mpumalanga,Secunda,Urban
+235,Mzansi Branch 235,Free State,Welkom,Urban
+236,Mzansi Branch 236,Mpumalanga,Mbombela,Urban
+237,Mzansi Branch 237,Limpopo,Thohoyandou,Urban
+238,Mzansi Branch 238,Eastern Cape,East London,Urban
+239,Mzansi Branch 239,KwaZulu-Natal,Richards Bay,Suburban
+240,Mzansi Branch 240,Limpopo,Thohoyandou,Suburban
+241,Mzansi Branch 241,Gauteng,Soweto,Suburban
+242,Mzansi Branch 242,Limpopo,Tzaneen,SUBURBAN
+243,Mzansi Branch 243,Western Cape,Paarl,Suburban
+244,Mzansi Branch 244, Limpopo ,Thohoyandou,Urban
+245,Mzansi Branch 245,Limpopo,Polokwane,Suburban
+246,Mzansi Branch 246,Western Cape,Stellenbosch,Urban
+247,Mzansi Branch 247,Mpumalanga,MBOMBELA,Urban
+248,Mzansi Branch 248,Eastern Cape,East London,Suburban
+249,Mzansi Branch 249,North West,Klerksdorp,Urban
+250,Mzansi Branch 250,Western Cape,Stellenbosch,Urban
