@@ -13,7 +13,7 @@ MzansiBank has provided customer and transaction data and requires the data scie
 
 Customer usage — Understand how customers interact with the bank and its services.
 Transaction concentration — Identify where transaction activity is most frequent or clustered.
-Financial risk — Detect transactions that may indicate potential fraud or financial risk.
+Financial risk  Detect transactions that may indicate potential fraud or financial risk.
 Executive reporting — Present clear, actionable insights to the bank's leadership team.
 Pipeline Overview
 1. Loading Trusted Datasets
